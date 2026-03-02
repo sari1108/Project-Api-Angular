@@ -79,7 +79,8 @@ Project/
     ├── MiddleWare/
     ├── Data/
     └── DTOs/Models/Logs/
-    
+```
+
 ---
 
 ##  אבטחה

@@ -2,7 +2,7 @@
 
 ##  סקירה כללית
 
-*פ רויקט זה הוא פרויקט **Full-Stack** הכולל **Backend ב-.NET 8/9 Web API** ו־**Frontend ב-Angular 21**, לניהול **מכירה סינית מלאה**.
+פרויקט זה הוא פרויקט **Full-Stack** הכולל **Backend ב-.NET 8/9 Web API** ו־**Frontend ב-Angular 21**, לניהול **מכירה סינית מלאה**.
 
 המערכת מאפשרת ניהול תורמים, מתנות, רכישות והגרלות, עם כניסה נפרדת למשתמשי הנהלה וללקוחות, אבטחת מידע מבוססת JWT, טיפול שגיאות ולוגים, ודוחות מפורטים בזמן אמת.
 
@@ -64,23 +64,22 @@
 - יישום עקרונות SOLID
 
 ---
-
 ## מבנה הפרויקט
 
+```text
 Project/
 ├── client/AngularProject/
-│ ├── Components/
-│ ├── Services/
-│ └── Models/
+│   ├── Components/
+│   ├── Services/
+│   └── Models/
 └── server/ApiProject/
-├── Controllers/
-├── Services/
-├── Repositories/
-├── MiddleWare/
-├── Data/
-└── DTOs/Models/Logs/
-
-
+    ├── Controllers/
+    ├── Services/
+    ├── Repositories/
+    ├── MiddleWare/
+    ├── Data/
+    └── DTOs/Models/Logs/
+    
 ---
 
 ##  אבטחה
@@ -121,6 +120,7 @@ Project/
 
  ## פרטי יוצר
 פותח על ידי: אלה בליטי
-לשאלות בנוגע לפרויקט זה, ניתן ליצור קשר דרך GitHub או במייל
+
+לשאלות בנוגע לפרויקט זה, ניתן ליצור קשר דרך GitHub .או במייל
 
 

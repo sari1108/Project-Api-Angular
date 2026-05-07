@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Project Api-Angular Sari\u0026Ella\\server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject.tests\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E51A9ED-196F-4B41-8A9E-6878F14570D8}|ApiProject.Tests\\ApiProject.Tests.csproj|solutionrelative:apiproject.tests\\authcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|solutionrelative:apiproject\\data\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80BA0D00-3931-403C-A3A6-D5350DF8C9AA}|ApiProject\\ApiProject.csproj|d:\\project api-angular sari\u0026ella\\server\\apiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -282,7 +282,57 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:54:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T12:54:50.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthControllerTest.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject.Tests\\AuthControllerTest.cs",
+              "RelativeDocumentMoniker": "ApiProject.Tests\\AuthControllerTest.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject.Tests\\AuthControllerTest.cs",
+              "RelativeToolTip": "ApiProject.Tests\\AuthControllerTest.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAD4v2AAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T07:20:00.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Program.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Program.cs",
+              "RelativeToolTip": "ApiProject\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE8AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T19:33:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AuthorDto.cs",
               "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\DTO\\AuthorDto.cs",
               "RelativeDocumentMoniker": "ApiProject\\DTO\\AuthorDto.cs",
@@ -294,27 +344,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LotteryController.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Controllers\\LotteryController.cs",
-              "RelativeDocumentMoniker": "ApiProject\\Controllers\\LotteryController.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Controllers\\LotteryController.cs",
-              "RelativeToolTip": "ApiProject\\Controllers\\LotteryController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADgvxcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContext.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContext.cs",
+              "RelativeToolTip": "ApiProject\\Data\\ProjectContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T18:25:55.867Z"
+              "WhenOpened": "2026-01-05T14:23:47.783Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LotteryService.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Services\\Implement\\LotteryService.cs",
-              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\LotteryService.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Services\\Implement\\LotteryService.cs",
-              "RelativeToolTip": "ApiProject\\Services\\Implement\\LotteryService.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAMwEIAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProjectContextFactory.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContextFactory.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContextFactory.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContextFactory.cs",
+              "RelativeToolTip": "ApiProject\\Data\\ProjectContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-10T18:45:46.859Z"
+              "WhenOpened": "2026-01-05T14:23:49.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -330,44 +382,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "ApiProject\\MiddleWare\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "LotteryService.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Services\\Implement\\LotteryService.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Services\\Implement\\LotteryService.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Services\\Implement\\LotteryService.cs",
+              "RelativeToolTip": "ApiProject\\Services\\Implement\\LotteryService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAMwEIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:54:50.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MiddlewareExtensions.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
-              "RelativeDocumentMoniker": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
-              "RelativeToolTip": "ApiProject\\MiddleWare\\MiddlewareExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:54:50.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthControllerTest.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject.Tests\\AuthControllerTest.cs",
-              "RelativeDocumentMoniker": "ApiProject.Tests\\AuthControllerTest.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject.Tests\\AuthControllerTest.cs",
-              "RelativeToolTip": "ApiProject.Tests\\AuthControllerTest.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAD4v2AAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T07:20:00.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-10T18:45:46.859Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "LotteryController.cs",
+              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Controllers\\LotteryController.cs",
+              "RelativeDocumentMoniker": "ApiProject\\Controllers\\LotteryController.cs",
+              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Controllers\\LotteryController.cs",
+              "RelativeToolTip": "ApiProject\\Controllers\\LotteryController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:25:55.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CartDto.cs",
               "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\DTO\\CartDto.cs",
               "RelativeDocumentMoniker": "ApiProject\\DTO\\CartDto.cs",
@@ -376,30 +415,6 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAiwBgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T15:05:48.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProjectContextFactory.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContextFactory.cs",
-              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContextFactory.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContextFactory.cs",
-              "RelativeToolTip": "ApiProject\\Data\\ProjectContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:23:49.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Program.cs",
-              "RelativeDocumentMoniker": "ApiProject\\Program.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Program.cs",
-              "RelativeToolTip": "ApiProject\\Program.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T19:33:10.284Z"
             },
             {
               "$type": "Document",
@@ -412,18 +427,6 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T07:30:15.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProjectContext.cs",
-              "DocumentMoniker": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContext.cs",
-              "RelativeDocumentMoniker": "ApiProject\\Data\\ProjectContext.cs",
-              "ToolTip": "D:\\Project Api-Angular Sari\u0026Ella\\server\\ApiProject\\Data\\ProjectContext.cs",
-              "RelativeToolTip": "ApiProject\\Data\\ProjectContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:23:47.783Z"
             },
             {
               "$type": "Document",

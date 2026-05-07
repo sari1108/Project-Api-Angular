@@ -2015,3 +2015,4 @@ D:\Project Api-Angular Sari&Ella\server\ApiProject\obj\Debug\net8.0\refint\ApiPr
 D:\Project Api-Angular Sari&Ella\server\ApiProject\obj\Debug\net8.0\ApiProject.pdb
 D:\Project Api-Angular Sari&Ella\server\ApiProject\obj\Debug\net8.0\ApiProject.genruntimeconfig.cache
 D:\Project Api-Angular Sari&Ella\server\ApiProject\obj\Debug\net8.0\ref\ApiProject.dll
+D:\Project Api-Angular Sari&Ella\server\ApiProject\obj\Debug\net8.0\ApiProject.sourcelink.json

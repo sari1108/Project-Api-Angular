@@ -76,8 +76,8 @@ try
     //builder.Services.AddDbContext<ProjectContext>(options =>
     //    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
     builder.Services.AddDbContext<ProjectContext>(options =>
-    options.UseSqlServer("Server=SRV2\\PUPILS;DataBase=3411111912_ProjectAPI;Integrated Security=SSPI;Persist Security Info=False;TrustServerCertificate=True;"));
-    //options.UseSqlServer("Server=EllaComputer;DataBase=ProjectSari;Integrated Security=SSPI;Persist Security Info=False;TrustServerCertificate=True;"));
+    //options.UseSqlServer("Server=SRV2\\PUPILS;DataBase=3411111912_ProjectAPI;Integrated Security=SSPI;Persist Security Info=False;TrustServerCertificate=True;"));
+    options.UseSqlServer("Server=EllaComputer;DataBase=ProjectSari;Integrated Security=SSPI;Persist Security Info=False;TrustServerCertificate=True;"));
 
 
     // Repositories
